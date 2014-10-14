@@ -1,0 +1,4 @@
+Below is the API key to access the brewerydb database.
+key:	be63b9e7adb442b18524e654c8a59ed7
+
+key: 98946c0a780132c554b3af67a95b1712 
